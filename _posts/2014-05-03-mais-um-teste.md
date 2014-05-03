@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 published: true
 layout: post
 category : meta
