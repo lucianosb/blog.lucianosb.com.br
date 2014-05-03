@@ -64,6 +64,12 @@ prose:
                 value: "anuncios"
               - name: "Opinião"
                 value: "opiniao"
+        - name: "tagline"
+          field:
+            element: "text"
+            label: "Add Tagline"
+            placeholder: "Write a tagline"
+            type: "text"
       _posts/static:
         - name: "layout"
           field:
