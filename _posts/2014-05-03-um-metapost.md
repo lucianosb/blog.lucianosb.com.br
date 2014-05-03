@@ -8,6 +8,7 @@ category : meta
 tagline: "testando novo blog"
 tags : [testes, blog]
 ---
+{% include JB/setup %}
 
 ## Este é um MetaPost
 
