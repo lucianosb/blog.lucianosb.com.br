@@ -1,8 +1,5 @@
 ---
 published: true
----
-
----
 layout: post
 category : meta
 tagline: "testando novo blog"
