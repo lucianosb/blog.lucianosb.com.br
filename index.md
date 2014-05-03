@@ -1,19 +1,14 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Bem-vindo(a)!
+tagline: Este é meu blog
 ---
 {% include JB/setup %}
 
 
-## Sample Posts
+## Posts Recentes
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+Eis meus textos mais recentes. Se preferir pode navegar por Categoria ou Assuntos (Tags) pelo menu acima.
 
 <ul class="posts">
   {% for post in site.posts %}
