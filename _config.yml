@@ -51,15 +51,15 @@ prose:
               - name: "Educação"
                 value: "educacao"
               - name: "Desenvolvimento"
-                value: "dev"
+                value: "desenvolvimento"
+              - name: "Jogos"
+                value: "jogos"
         - name: "categories"
           field:
             element: "select"
             label: "Add Category"
             placeholder: "Choose Category"
             options:
-              - name: "Jogos"
-                value: "jogos"
               - name: "Anúncios"
                 value: "anuncios"
               - name: "Opinião"
