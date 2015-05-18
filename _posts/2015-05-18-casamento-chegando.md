@@ -2,6 +2,8 @@
 layout: post
 published: true
 categories: anuncios
+tags: 
+  - Vida Pessoal
 ---
 
 
