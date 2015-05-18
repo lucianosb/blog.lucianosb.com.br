@@ -17,4 +17,4 @@ Fizemos todas as etapas da cerimônia juntos. Os convites, o site do casamento, 
 
 [Site do Casamento](http://lidiaeluciano.tk){:class="btn btn-success"}
 
-Muito obrigado a todos que nos desejam felicidades e nos apoiam em nossa nova etapa de vida.
+Muito obrigado a todos que nos desejam felicidades e nos apoiam em nossa nova etapa de vida. :smile:
